@@ -1,0 +1,46 @@
+Pseudo Kode til Ubentu opgaven.
+
+Der er en Navigation og en footer på alle sider
+
+Landing-page -->
+Brugeren starter på landingpagen
+På landing pagen vil der være mulighed for at tilmelde sig til konferencen.
+brugeren skal klikke på call to action kanppen
+brugen bliver der sendt over til tilmeldings siden
+		
+Længere nede på siden er der en nyheds sektion
+Hvor der vil være 8 nyheder med et card hver
+		
+Længere nede på sinden vil der være en intrestform
+Hvor den vil have og email
+Den vil validere på om det er en gyldig email
+fejler den --- Fejl besked 
+Succes -- Takke besked
+
+Længere nede finder man en section med iot og desktop ikoner 
+de vil føre en til Programsiden 
+
+Tilmeldings-page -->
+på tilmeldings siden er der en form hvor du tilmelder dig på
+på den skal du udfylde:
+-navn
+-adresse
+-land
+-email
+-hovde interesse af Iot eller desktop 
+
+Længere nede på siden finder man en section med iot og desktop ikoner
+de vil føre til program siden
+
+Program-page -->
+på siden finder du iot og desktop events der er min 5 af hver
+De vil så tage dig hen til en event info side
+
+Event-info-page 
+på event siden finder du først en section med emne header og billede
+
+længere nede er der en section med text
+
+længere nede er der en section med info om taler og bileder
+
+		
