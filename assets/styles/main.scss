@@ -1,2 +1,6 @@
 @use "./abstracts/colors";
-@use "./abstracts/fonts";
+@use "./components/nav";
+
+.header-main {
+    @include nav.navbar
+}

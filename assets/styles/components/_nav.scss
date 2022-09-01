@@ -1,0 +1,11 @@
+@use "../abstracts/colors";
+
+@mixin navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: colors.$N-cool-grey;
+    img {
+        width: 12%;
+    }
+
+}

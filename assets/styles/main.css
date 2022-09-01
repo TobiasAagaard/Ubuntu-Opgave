@@ -1,1 +1,8 @@
-/*# sourceMappingURL=main.css.map */
+.header-main {
+  display: flex;
+  flex-direction: row;
+  background-color: #333333;
+}
+.header-main img {
+  width: 12%;
+}/*# sourceMappingURL=main.css.map */
